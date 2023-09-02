@@ -16,11 +16,11 @@ Usage
 Clone the repository to your local machine:
 
 bash
-git clone https://github.com/yourusername/face-recognition-attendance.git
+**git clone https://github.com/yourusername/face-recognition-attendance.git**
 Install the required libraries using pip:
 
 bash
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 Prepare your training images: Place images of individuals you want to recognize in the Training_images folder. Each image should contain only one face.
 
 python main.py
