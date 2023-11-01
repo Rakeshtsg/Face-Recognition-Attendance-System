@@ -16,7 +16,7 @@ Usage
 Clone the repository to your local machine:
 
 bash
-**git clone https://github.com/yourusername/face-recognition-attendance.git**
+**git clone https://github.com/Rakeshtsg/Face-Recognition-Attendance-System.git**
 Install the required libraries using pip:
 
 bash
